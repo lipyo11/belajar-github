@@ -2,4 +2,5 @@
 
 int main(){
     printf("Selamat sore");
+    printf("Hari ini aku belajar github");
 }
